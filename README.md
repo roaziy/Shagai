@@ -89,15 +89,13 @@ The entire project is a single Swift Playground App Package (`.swiftpm`) with no
 
 ## 📸 Screenshots
 
-> _Screenshots coming soon — the app is best experienced on a physical iPad in landscape mode._
-
-<!--
-Add your screenshots here:
-![Main Menu](screenshots/main-menu.png)
-![Story Scene](screenshots/story-scene.png)
-![AR Hand Tracking](screenshots/ar-tracking.png)
-![Shagai Board](screenshots/shagai-board.png)
--->
+![Introducing Shagai](screenshots/0.png)
+![About](screenshots/1.png)
+![What is Shagai?](screenshots/2.png)
+![The Story](screenshots/3.png)
+![Introducing Gameplay](screenshots/4.png)
+![Accessibility Feature](screenshots/5.png)
+![Closing](screenshots/6.png)
 
 ---
 
