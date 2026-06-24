@@ -124,9 +124,9 @@ The entire project is a single Swift Playground App Package (`.swiftpm`) with no
 Second-year IT student at the Mongolian University of Science and Technology. Deeply inspired by the heritage of the Mongolian Empire and the traditional game of Shagai.
 
 - GitHub: [@roaziy](https://github.com/roaziy)
-
+<!--
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details. -->
