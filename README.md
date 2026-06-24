@@ -2,7 +2,7 @@
 
 ![Swift](https://img.shields.io/badge/Swift-5.9-orange?logo=swift&logoColor=white)
 ![iPadOS](https://img.shields.io/badge/iPadOS-18.1+-blue?logo=apple&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
+<!-- ![License](https://img.shields.io/badge/License-MIT-green) -->
 ![Apple Swift Student Challenge](https://img.shields.io/badge/WWDC26-Swift%20Student%20Challenge-blueviolet)
 
 An interactive iPad game that preserves Mongolia's 2,000-year-old **Shagai** tradition through AR hand-tracking gameplay and cinematic storytelling. Built entirely in Swift Playgrounds as an Apple Swift Student Challenge 2026 submission.
